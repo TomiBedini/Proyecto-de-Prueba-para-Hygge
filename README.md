@@ -1,8 +1,8 @@
 # Dashboard de Ocupación — Hygge Psicoterapia
 
-Este es un proyecto que armé para prepararme para la entrevista laboral. La idea era practicar el stack que pedían (Python, Pandas, SQL, Streamlit) pero con algo más cercano a un caso real que con un dataset genérico.
+Este es un proyecto que armé para prepararme para la entrevista laboral. La idea era practicar el stack que pedían (Python, Pandas, PstgreSQL, Streamlit) pero con algo más cercano a un caso real que con un dataset genérico.
 
-Los datos que ves acá son simulados, pero están armados a partir de datos públicos del negocio: sus servicios, precios, horarios de atención y cantidad de profesionales.
+Los datos que se ven acá son simulados, pero están armados a partir de datos públicos del negocio: los servicios, precios, horarios de atención y cantidad de profesionales.
 
 ## Demo
 
