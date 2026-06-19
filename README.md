@@ -6,7 +6,7 @@ Los datos que se ven acá son simulados, pero están armados a partir de datos p
 
 ## Demo
 
-[Link a la app desplegada] _(pendiente)_
+https://pruebademo.streamlit.app/
 
 ## Qué muestra
 
